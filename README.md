@@ -63,14 +63,9 @@ JavaScript    ███████    60%
   <br>Memory AI
 </a>
 
-<a href="#" target="_blank">
+<a href="https://github.com/NisargPatel1704/cybersecurity-portfolio" target="_blank">
   <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="240" style="margin:10px" />
   <br>Cybersecurity Tools
-</a>
-
-<a href="#" target="_blank">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="240" style="margin:10px" />
-  <br>Automation & Web Apps
 </a>
 
 </div>
@@ -90,10 +85,10 @@ JavaScript    ███████    60%
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nisarg-patel-1704/">
+  <a href="https://www.linkedin.com/in/nisarg-patel-1704/](https://www.linkedin.com/in/nisarg-patel-870073217">
     <img src="https://img.shields.io/badge/LinkedIn-NisargPatel-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:nisarg@example.com">
+  <a href="mailto:nisargpatel24880@gmail.com">
     <img src="https://img.shields.io/badge/Email-nisarg@example.com-D14836?logo=gmail&logoColor=white"/>
   </a>
   <a href="https://twitter.com/">
