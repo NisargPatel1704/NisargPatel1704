@@ -89,7 +89,7 @@ JavaScript    ███████    60%
     <img src="https://img.shields.io/badge/LinkedIn-NisargPatel-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:nisargpatel24880@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nisarg@example.com-D14836?logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-nisargpatel24880@gmail.com-D14836?logo=gmail&logoColor=white"/>
   </a>
   <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/Twitter-@_YOUR_HANDLE-1DA1F2?logo=twitter&logoColor=white"/>
