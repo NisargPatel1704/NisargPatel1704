@@ -9,16 +9,12 @@
   <a href="https://github.com/NisargPatel1704">
     <img src="https://img.shields.io/badge/GitHub-NisargPatel1704-181717?logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/nisarg-patel-1704/">
+  <a href="https://www.linkedin.com/in/nisarg-patel-1704/](https://www.linkedin.com/in/nisarg-patel-870073217">
     <img src="https://img.shields.io/badge/LinkedIn-NisargPatel-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:nisarg@example.com">
+  <a href="mailto:nisargpatel24880@gmail.com">
     <img src="https://img.shields.io/badge/Email-nisargpatel24880@gmail.com-D14836?logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-@_YOUR_HANDLE-1DA1F2?logo=twitter&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=NisargPatel1704&color=brightgreen" alt="Profile Views"/>
 </p>
 
 ---
