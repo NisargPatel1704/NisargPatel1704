@@ -59,12 +59,10 @@ JavaScript    ███████    60%
 <div align="center">
 
 <a href="https://github.com/NisargPatel1704/my-memory-ai" target="_blank">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="240" style="margin:10px" />
   <br>Memory AI
 </a>
 
 <a href="https://github.com/NisargPatel1704/cybersecurity-portfolio" target="_blank">
-  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="240" style="margin:10px" />
   <br>Cybersecurity Tools
 </a>
 
