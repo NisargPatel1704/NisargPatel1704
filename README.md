@@ -1,106 +1,145 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Welcome GIF" width="220"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Nisarg+Patel;AI+%7C+Cybersecurity+%7C+Python+Developer;Building+Real-World+Security+and+AI+Systems;Always+Learning+New+Technologies" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Nisarg Patel</h1>
-<p align="center">A passionate <strong>Python, AI, Web Development & Cybersecurity</strong> enthusiast</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="220"/>
+</p>
+
+<h1 align="center">Nisarg Patel</h1>
+
+<p align="center">
+AI & Cybersecurity Developer | Python Engineer | Building Intelligent Systems
+</p>
 
 <p align="center">
   <a href="https://github.com/NisargPatel1704">
     <img src="https://img.shields.io/badge/GitHub-NisargPatel1704-181717?logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/nisarg-patel-1704/](https://www.linkedin.com/in/nisarg-patel-870073217">
+  <a href="https://www.linkedin.com/in/nisarg-patel-870073217">
     <img src="https://img.shields.io/badge/LinkedIn-NisargPatel-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:nisargpatel24880@gmail.com">
     <img src="https://img.shields.io/badge/Email-nisargpatel24880@gmail.com-D14836?logo=gmail&logoColor=white"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=NisargPatel1704&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 ---
 
-## 🌟 About Me
+# 🚀 About Me
 
-- 🌱 Currently learning **Advanced FastAPI, GPT-4 AI Systems, DevSecOps, and Cloud Deployment**  
-- 💻 Building **real-world projects** in Python, Web, and AI  
-- 🔒 Passionate about **Cybersecurity**: Pentesting, Network Security, CTF challenges  
-- 🤝 Open to **collaborations, internships, and mentoring opportunities**  
+- 🔭 Building **AI-powered cybersecurity systems**
+- 🧠 Developing **machine learning security tools**
+- ⚡ Creating **high-performance Python backends**
+- 🔐 Exploring **network security & anomaly detection**
+- 🌍 Passionate about **open-source and real-world projects**
 
 ---
 
-## 💻 Tech Stack & Skills
+# 🧠 Current Projects
+
+## 🛡️ EntroGuard – AI Intrusion Detection System
+Entropy-based anomaly detection system designed for **real-time network security monitoring**.
+
+Features:
+- Real-time packet analysis  
+- Entropy deviation detection  
+- Machine learning anomaly classification  
+- Streamlit dashboard with ROC and confusion matrix analysis  
+
+---
+
+## 🤖 Memory AI
+AI assistant capable of maintaining **long-term contextual memory** for conversations and workflows.
+
+Tech:
+- Python  
+- LLM integration  
+- Vector memory storage  
+
+---
+
+## 🔐 Cybersecurity Toolkit
+Collection of Python tools for **security testing and automation**.
+
+Includes:
+- Network scanners  
+- Log analyzers  
+- Security monitoring utilities  
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,docker,git,linux,js,html,css"/>
 </p>
-
-### 🔹 Skill Progress
-
-
-Python        ██████████ 95%
-FastAPI       █████████  85%
-Django        ████████   75%
-PostgreSQL    ████████   75%
-Docker        ████████   70%
-Cybersecurity ███████    65%
-JavaScript    ███████    60%
 
 ---
 
-## 🚀 Featured Projects
+# 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<a href="https://github.com/NisargPatel1704/my-memory-ai" target="_blank">
-  <br>Memory AI
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NisargPatel1704&show_icons=true&theme=radical&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisargPatel1704&layout=compact&theme=radical"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NisargPatel1704&theme=radical"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=NisargPatel1704&theme=radical&row=1&column=6"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NisargPatel1704&theme=react-dark"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+![Snake animation](https://github.com/NisargPatel1704/NisargPatel1704/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/nisarg-patel-870073217">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/NisargPatel1704/cybersecurity-portfolio" target="_blank">
-  <br>Cybersecurity Tools
+<a href="mailto:nisargpatel24880@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NisargPatel1704&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisargPatel1704&layout=compact&theme=radical"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=NisargPatel1704&theme=radical"/>
 </p>
 
----
+# 🎯 Goals
 
-## 🌐 Connect with Me
+- Build **AI-powered cybersecurity platforms**
+- Contribute to **open-source security tools**
+- Learn **Cloud infrastructure & DevSecOps**
+- Publish **technical blogs and research projects**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nisarg-patel-1704/](https://www.linkedin.com/in/nisarg-patel-870073217">
-    <img src="https://img.shields.io/badge/LinkedIn-NisargPatel-0A66C2?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nisargpatel24880@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nisargpatel24880@gmail.com-D14836?logo=gmail&logoColor=white"/>
-  </a>
-</p>
+“ > Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
----
-
-## 🎯 Goals
-
-- Build **AI and cybersecurity projects** for real-world applications  
-- Learn **Cloud, CI/CD, and DevSecOps** to improve deployment pipelines  
-- Share **knowledge through GitHub and blog posts**  
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
-<p align="center">Made with ❤️ & ⚡ by Nisarg Patel</p>
+<p align="center"> ⚡ Built with passion for technology by Nisarg Patel </p> 
